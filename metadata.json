@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Moz Delivery - Nampula",
+  "description": "Uma plataforma completa de entrega para Nampula, Moçambique, integrando clientes, estafetas e gestores com pagamentos M-Pesa e e-Mola.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
